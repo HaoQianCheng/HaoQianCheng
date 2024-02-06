@@ -1,34 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### Hi there 👋
 
-###
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HaoQianCheng&show_icons=true)
 
-<p align="left">My name is Minjie and I'm a full-stack software enginer, from China .</p>
+My name is **qiancheng**
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning English<br>🎯 Goals: make money
+- 🔭 I’m currently working on ....
+- 🖖 I’m currently focusing on dynamic compilation and library package.
+- 🌱 I’m currently learning how to live on this world.
+- 💕 I’m a cloud computing enthusiast.
+- 📫 How to reach me: qiancheng.hao@outlook.com
 
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
-
-
-###
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/NMSAzulX/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/NMSAzulX/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/NMSAzulX/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
