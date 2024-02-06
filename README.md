@@ -4,10 +4,7 @@
 
 My name is **qiancheng**
 
-- 🔭 I’m currently working on ....
-- 🖖 I’m currently focusing on dynamic compilation and library package.
-- 🌱 I’m currently learning how to live on this world.
-- 💕 I’m a cloud computing enthusiast.
+
 - 📫 How to reach me: qiancheng.hao@outlook.com
 
 - 
