@@ -28,6 +28,10 @@
 | [**yolo_Blood**](https://github.com/HaoQianCheng/yolo_Blood) | 血袋标签旋转框检测与血袋类型分类，包含 RK3576 板端部署代码 | Python · YOLO11 · RKNN |
 | [**blood_ocr**](https://github.com/HaoQianCheng/blood_ocr) | 血袋文字识别，包含 ONNX 推理脚本与 RKNN Web 服务 | Python · RapidOCR · ONNX · Flask |
 
+## 🤝 开源贡献
+
+- [**AgileConfig**](https://github.com/dotnetcore/AgileConfig)：我是该项目的贡献者。
+
 ## 🧩 技术实践
 
 **服务监控**  
