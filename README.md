@@ -27,7 +27,7 @@
 | [**ServiceReport**](https://github.com/HaoQianCheng/ServiceReport) | .NET 服务监控、分析与跟踪插件，配套可视化页面 | C# · .NET · Blazor |
 | [**yolo_Blood**](https://github.com/HaoQianCheng/yolo_Blood) | 血袋标签旋转框检测与血袋类型分类，包含 RK3576 板端部署代码 | Python · YOLO11 · RKNN |
 | [**blood_ocr**](https://github.com/HaoQianCheng/blood_ocr) | 血袋文字识别，包含 ONNX 推理脚本与 RKNN Web 服务 | Python · RapidOCR · ONNX · Flask |
-| [**AgileConfig**](https://github.com/dotnetcore/AgileConfig) | 我是该项目的**贡献者** | — |
+| [**AgileConfig**](https://github.com/dotnetcore/AgileConfig) · 贡献者 | 基于 .NET 的轻量级配置中心，支持多环境、配置实时更新与版本回滚 | C# · .NET |
 
 ## 🧩 技术实践
 
